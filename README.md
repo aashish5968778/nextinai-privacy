@@ -1,25 +1,42 @@
 # Privacy Policy for NextinAI
 
-**Last updated:** July 22, 2025
+**Last updated:** August 19, 2025
 
-This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
+Privacy Policy — NextinAI
+Last updated: July 22, 2025
 
-## Information We Collect
+Who we are
+NextinAI (“we”, “our”, “us”) provides AI-related news and discussions in a simple mobile app.
 
-We do not collect any personally identifiable information from you. Our app uses third-party services that may collect information used to identify you.
+Information we collect
+• We do not ask you to create an account and we do not collect personally identifiable information.
+• If you contact us by email, we receive your email address and any information you include so we can respond to your request.
+• The app uses Firebase Cloud Messaging to deliver push notifications. This service creates a device token so notifications can be sent to your device.
+• Bookmarks, muted keywords and settings are stored locally on your device using app storage and are not uploaded to our servers.
 
-Link to the privacy policy of third-party service providers used by the app:
+How we use information
+• Device tokens are used only to send push notifications you opt into.
+• Support emails are used only to reply to you.
 
-* [Google Play Services](https://www.google.com/policies/privacy/)
-* [Google AdMob](https://support.google.com/admob/answer/6128543?hl=en)
-* [Firebase](https://firebase.google.com/policies/analytics)
+Third-party services
+• Firebase Cloud Messaging (by Google) helps deliver notifications and may receive device information necessary to operate the service.
+• When you open articles or Reddit posts, you leave our app and visit third-party websites or services that have their own privacy practices.
 
-## Changes to This Privacy Policy
+Sharing and selling
+• We do not sell your data.
+• We do not share personal information with third parties except service providers that operate strictly on our behalf (for example, Firebase to deliver notifications).
 
-We may update Our Privacy Policy from time to time. We will notify You of any changes by posting the new Privacy Policy on this page.
+Data retention and choices
+• Notification tokens are kept as long as notifications remain enabled or until you uninstall the app.
+• You can turn off notifications in your device settings.
+• You may request deletion of support emails by contacting us.
+• Local bookmarks and settings stay on your device until you clear app data or uninstall.
 
-## Contact Us
+Children’s privacy
+• The app is not directed to children under the age of 13. If you are a parent or guardian and believe we have collected information from a child, contact us and we will delete it.
 
-If you have any questions about this Privacy Policy, You can contact us:
+Changes to this policy
+• We may update this policy from time to time. The “Last updated” date will be revised when changes are made.
 
-* By email: ashishsalunke01@gmail.com
+Contact
+Email: ashishsalunke01@gmail.com
